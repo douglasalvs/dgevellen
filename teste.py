@@ -1,3 +1,4 @@
+import streamlit as st
 import base64
 
 # CONFIG
@@ -76,7 +77,7 @@ with col_left:
     st.markdown("<div style='margin-top:30px;'>", unsafe_allow_html=True)
 
     st.link_button(
-        "Visitar Site da Netlix",
+        "Visitar Site da Netflix",
         "https://www.netflix.com/br/"
     )
 
