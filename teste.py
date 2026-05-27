@@ -52,7 +52,7 @@ with col_left:
         ">
         """, unsafe_allow_html=True)
 
-        st.image("WhatsApp Image 2026-05-27 at 11.52.06.png", width=250)
+        st.image("foto.png.jpeg", width=250)
 
         st.markdown("</div>", unsafe_allow_html=True)
 
