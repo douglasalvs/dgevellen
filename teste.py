@@ -33,7 +33,7 @@ with col_left:
 
     st.markdown("""
     <div style='margin-bottom:30px; font-size:30px;'>
-        <b>Maria Hillary</b>
+        <b>Douglas</b>
     </div>
     """, unsafe_allow_html=True)
 
@@ -66,10 +66,10 @@ with col_left:
             line-height: 2.0;
             width: 100%;
         ">
-            <b>Sobre Maria Hillary:</b><br><br>
+            <b>Sobre Douglas:</b><br><br>
 
-            Maria Hillary é estudante do Ensino Médio no IFPB Campus Itabaiana,
-            dedicada aos estudos e interessada em tecnologia.
+            Douglas é estudante do Ensino Médio no IFPB Campus Itabaiana,
+            dedicado aos estudos e interessado em tecnologia.
         </div>
         """, unsafe_allow_html=True)
 
