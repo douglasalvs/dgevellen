@@ -30,7 +30,7 @@ with col_left:
     # FOTO PERFIL
     with subcol1:
         st.image(
-            "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+            "WhatsApp Image 2026-05-27 at 11.52.06.png",
             width=220
         )
 
